@@ -1,0 +1,8 @@
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\bin\Debug\Day5_Assignment_06.exe.config
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\bin\Debug\Day5_Assignment_06.exe
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\bin\Debug\Day5_Assignment_06.pdb
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\obj\Debug\Day5_Assignment_06.csproj.AssemblyReference.cache
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\obj\Debug\Day5_Assignment_06.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\obj\Debug\Day5_Assignment_06.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\obj\Debug\Day5_Assignment_06.exe
+D:\C# Programme\Day5\Day5_Assignment_06\Day5_Assignment_06\obj\Debug\Day5_Assignment_06.pdb
